@@ -54,12 +54,12 @@ The goal of this project is to uncover trends in NZ business performance, identi
 ### Salaries & Wages vs Operating Profit
 11. **Professional Services pays the highest salaries** at NZD $216K million total, yet also generates the highest operating profit — suggesting strong revenue efficiency.
 12. **Rental, Hiring and Real Estate Services shows a striking contrast** — very low salaries ($22K million) but very high operating profit ($129K million), indicating a highly capital-driven, low-labour business model.
-13. **Health Care and Social Assistance as well as Retail Trade & Accommodation are heavily salary-dependent** — salaries are nearly double their operating profits reflecting the labour-intensive nature of those industries.
+13. **Health Care and Social Assistance as well as Retail Trade & Accommodation are heavily salary-dependent** — salaries are nearly double their operating profits, reflecting the labour-intensive nature of those industries.
 
 ---
 
 ## SQL Queries
-See [`Business financial data project.sql`](Business financial data project.sql) for the full set of SQL queries used to explore and analyse this dataset, including:
+See [`Business financial data project.sql`](Business%20financial%20data%20project.sql) for the full set of SQL queries used to explore and analyse this dataset, including:
 - Top industries by sales and operating profit
 - Salary and wage trends over time
 - Profit margin by industry
@@ -67,7 +67,7 @@ See [`Business financial data project.sql`](Business financial data project.sql)
 ---
 
 ## How to View the Dashboard
-1. Download [`Business financial data project.pbix`](Business financial data project.pbix) from this repository
+1. Download [`Business financial data project.pbix`](Business%20financial%20data%20project.pbix) from this repository
 2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop) (free)
 3. Use the **Financials** and **Industry** slicers to filter by specific variables or sectors
 4. Navigate between the 3 pages using the page navigator
@@ -76,15 +76,15 @@ See [`Business financial data project.sql`](Business financial data project.sql)
 
 ## Repository Structure
 ```
-Data-and-Reporting-Projects/
+NZ-Business-Financial/
 │
 ├── README.md                                          # This file
 ├── Business financial data project.pbix               # Power BI dashboard file
+├── Business financial data project.sql                # SQL queries used in analysis
+├── business-financial-data-June-2026-quarter.csv      # Raw dataset
 ├── dashboard_page1_sales.png                          # Sales trend page screenshot
 ├── dashboard_page2_profit.png                         # Operating profit page screenshot
-├── dashboard_page3_income_vs_profit.png               # Salaries vs profit page screenshot
-├── Business financial data project.sql                # SQL queries used in analysis
-└── business-financial-data-June-2026-quarter.csv      # Raw dataset
+└── dashboard_page3_income_vs_profit.png               # Salaries vs profit page screenshot
 ```
 
 ---
@@ -92,4 +92,4 @@ Data-and-Reporting-Projects/
 ## About Me
 I am an IT professional with experience in application support and interest in data analytics and business intelligence. This project is part of my portfolio demonstrating skills in Power BI, DAX, and SQL using real New Zealand government data.
 
-📧 Connect with me on [LinkedIn](#) *(https://www.linkedin.com/in/alecanalyst/)*
+📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/alecanalyst/)
