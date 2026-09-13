@@ -59,7 +59,7 @@ The goal of this project is to uncover trends in NZ business performance, identi
 ---
 
 ## SQL Queries
-See [`queries.sql`](queries.sql) for the full set of SQL queries used to explore and analyse this dataset, including:
+See [`Business financial data project.sql`](Business financial data project.sql) for the full set of SQL queries used to explore and analyse this dataset, including:
 - Top industries by sales and operating profit
 - Salary and wage trends over time
 - Profit margin by industry
@@ -67,7 +67,7 @@ See [`queries.sql`](queries.sql) for the full set of SQL queries used to explore
 ---
 
 ## How to View the Dashboard
-1. Download [`nz_business_financial.pbix`](nz_business_financial.pbix) from this repository
+1. Download [`Business financial data project.pbix`](Business financial data project.pbix) from this repository
 2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop) (free)
 3. Use the **Financials** and **Industry** slicers to filter by specific variables or sectors
 4. Navigate between the 3 pages using the page navigator
